@@ -1,0 +1,114 @@
+@media (min-width: 1480px) and (max-width:2500px){
+    .topic input{
+        max-width: 100%;
+    }
+    .topic img{
+        max-width: 100%;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1480px){
+    .topic input{
+        width: 74%;
+        max-width: 100%;
+    }
+    .topic img{
+        max-width: 100%;
+    }
+}
+@media (min-width: 1000px) and (max-width: 1200px){
+    .topic input{
+        width: 67%;
+        max-width: 100%;
+    }
+    .topic img{
+        max-width: 100%;
+    }
+}
+@media (min-width: 800px) and (max-width: 1000px){
+    .topic input{
+        width: 59%;
+        max-width: 100%;
+    }
+    .topic img{
+        max-width: 100%;
+    }
+}
+@media (min-width: 700px) and (max-width: 800px){
+    .topic input{
+        width: 53%;
+        max-width: 100%;
+    }
+    .topic img{
+        max-width: 100%;
+    }
+}
+@media (min-width: 600px) and (max-width: 700px){
+    .topic button{
+        padding: 4px 60px;
+    }
+    .topic input{
+        width: 55%;
+        max-width: 100%;
+    }
+    .topic img{
+        max-width: 100%;
+    }
+}
+@media (min-width: 500px) and (max-width: 600px){
+    .topic button{
+        padding: 4px 40px;
+    }
+    .topic input{
+        width: 54%;
+        max-width: 100%;
+    }
+    .topic img{
+        max-width: 100%;
+    }
+}
+@media (min-width: 400px) and (max-width: 500px){
+    .topic button{
+        padding: 4px 35%;
+        margin-left: 7%;
+        margin-bottom: 40px;
+    }
+    .topic input{
+        width: 100%;
+        max-width: 100%;
+    }
+    .topic img{
+        max-width: 100%;
+    }
+}
+@media (min-width: 300px) and (max-width: 400px){
+    .topic button{
+        padding: 4px 35%;
+        margin-left: 1%;
+        margin-bottom: 40px;
+    }
+    .topic input{
+        width: 100%;
+        max-width: 100%;
+    }
+    .topic img{
+        max-width: 100%;
+        padding: 10px;
+    }
+    .topic strong{
+        font-size: 14px;
+        padding: 5px 0;
+    }
+    .topic ul{
+        padding-left: 2%;
+    }
+    .topic h5{
+        font-size: 13px;
+    }
+    .topic p{
+        font-size: 12px;
+    }
+    .news h1{
+        font-size: 35px;
+        margin-left: 10px;
+    }
+}
