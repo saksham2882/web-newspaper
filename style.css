@@ -128,7 +128,7 @@ body{
     transition: 0.2s linear;
 }
 .topic button:hover{
-    transform: scale(1.06);
+    transform: scale(1.05);
 }
 
 
